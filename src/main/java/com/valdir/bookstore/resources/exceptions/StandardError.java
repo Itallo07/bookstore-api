@@ -42,4 +42,8 @@ public class StandardError {
 		this.error = error;
 	}
 
+	public void addErrors(String field, String defaultMessage) {
+		
+	}
+
 }
